@@ -8,5 +8,5 @@ def main(s):
     """
     
     return s
-a = main(" Python course ")
-print(a.upper())
+a = main(" Python course  and django ")
+print(a.title())
