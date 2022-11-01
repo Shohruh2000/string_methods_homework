@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     
-    return s
-a = main(" Python course  and django ")
-print(a.title())
+    return s.title()
+a = main("python course  and django")
+print(a)
