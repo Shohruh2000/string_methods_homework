@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s
+a = main(" Python course ")
+print(a.upper())
